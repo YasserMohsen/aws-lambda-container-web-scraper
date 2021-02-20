@@ -1,0 +1,6 @@
+-e .
+aws-cdk.core
+aws-cdk.aws_lambda
+aws-cdk.aws_events_targets
+aws-cdk.aws_events
+python-dotenv
